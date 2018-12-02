@@ -1,3 +1,4 @@
 CoD_1.5_Patch.exe filter=lfs diff=lfs merge=lfs -text
 codtools.exe filter=lfs diff=lfs merge=lfs -text
 coduo_patch.exe filter=lfs diff=lfs merge=lfs -text
+coduo_tools.exe filter=lfs diff=lfs merge=lfs -text
