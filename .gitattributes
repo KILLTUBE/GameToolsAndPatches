@@ -4,3 +4,4 @@ coduo_patch.exe filter=lfs diff=lfs merge=lfs -text
 coduo_tools.exe filter=lfs diff=lfs merge=lfs -text
 CallofDuty2Patchv1_2.exe filter=lfs diff=lfs merge=lfs -text
 CallofDuty2Patchv1_3.exe filter=lfs diff=lfs merge=lfs -text
+callofduty2modtools.exe filter=lfs diff=lfs merge=lfs -text
